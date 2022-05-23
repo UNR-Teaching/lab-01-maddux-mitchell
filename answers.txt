@@ -1,0 +1,13 @@
+//Mitchell Maddux
+//Answers to lab
+
+after typing ls > newfile.txt, newfile.txt was added to the file. The '>' listed all of the directories and put them in the file newfile.txt.
+
+After running git status, it says "changes to be committed:
+
+ (use "git reset HEAD <file>..." to unstage)
+
+	new file:   newfile.txt"
+
+git diff tells you what is added or deleted from a file.
+
